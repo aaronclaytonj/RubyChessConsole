@@ -1,4 +1,4 @@
-# Ruby Chess Console Game
+# Ruby Tik Tac Toe Console Game
 
 #### MUST HAVE RUBY VERSION 3.1.2 OR GREATER <br />
 ## To play
